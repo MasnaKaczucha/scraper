@@ -36,7 +36,7 @@ for product in products:
 #     mesto = lokalita[0].strip()
 #     # psc = lokalita[1].strip()
 #     datum_pridani = inzerat.find("span", {"class": "velikost10"}).text.strip()
-#
+#dsf
     products_parsed.append({
         "name": name,
         "price before": price_before,
